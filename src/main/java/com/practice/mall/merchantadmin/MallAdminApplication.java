@@ -1,4 +1,4 @@
-package com.practice.mall.admin;
+package com.practice.mall.merchantadmin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
